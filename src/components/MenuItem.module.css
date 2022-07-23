@@ -1,0 +1,17 @@
+.cities{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.cities button{
+    height: 40px;
+    /* border-radius: 5px; */
+    border: none;
+    color: gray;
+    border-bottom-style: solid;
+    background-color: inherit;
+}
+.cities button:hover{
+    background-color: gray;
+    color: white;
+}
